@@ -4,7 +4,7 @@
 
 ## 
 
-Olá, bem-vindo ao meu perfil, sou um Desenvolvedor Full-Stack de Aplicativos, estou cursando Python, atualmente eu sou Júnior, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente o meu portifólio, com todas as imagens e as informações dos aplicativos que eu fiz des de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os meus projetos que eu fiz, estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para aprender mais sobre a minha profissão, estou sempre buscando novas ideias para aplicativos para desenvolver mais e mais e consequentemente aprendendo muito mais, eu me chamo Carlos Eduardo, atualmente com 14 anos.
+Olá, bem-vindo ao meu perfil, sou um Desenvolvedor Full-Stack de Aplicativos, estou cursando Python, atualmente eu sou Júnior, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente o meu portifólio, com todas as imagens e as informações dos aplicativos que eu fiz des de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os meus projetos que eu fiz, estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para aprender mais sobre a minha profissão, estou sempre buscando novas ideias para aplicativos para desenvolver mais e mais e consequentemente aprendendo muito mais, eu me chamo Carlos Eduardo, "pvkas" é o nome de exibição, atualmente com 14 anos.
 
 <!--
 **PvKa732/PvKa732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
