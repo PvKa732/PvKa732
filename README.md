@@ -1,10 +1,11 @@
 <p align="center">
-   <img width="500" height="156" alt="imagemportifolio1" src="https://github.com/user-attachments/assets/1a518faa-097b-46d7-8e6a-681acd576b1b" />
+   <img height="156" alt="imagemportifolio1" src="https://github.com/user-attachments/assets/1a518faa-097b-46d7-8e6a-681acd576b1b" />
 </p>
+
+
 
 <!--
 **PvKa732/PvKa732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
