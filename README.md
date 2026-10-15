@@ -14,6 +14,9 @@ Estou quase sempre online, principalmente pelo Discord, tanto para networking ta
 ### 🔹 Backend
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square\&logo=python\&logoColor=ffdd54)
+
+### 🔹 Frontend
+
 ![Flet](https://img.shields.io/badge/Flet-02569B?style=flat-square\&logo=python\&logoColor=white)
 
 ### 🔹 Bancos de Dados
