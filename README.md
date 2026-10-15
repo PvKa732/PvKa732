@@ -4,12 +4,11 @@
 
 ## 
 # ✨ SOBRE MIM
-Opa! Eu me chamo Carlos Eduardo, atualmente com 14 anos, eu estou cursando Python, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente o meu portifólio, com todas as imagens e as informações dos aplicativos que eu fiz des de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os meus projetos que eu fiz. 
+Opa! Eu me chamo Carlos Eduardo, atualmente com 14 anos, eu estou cursando Python, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente no meu [Portfólio](https://github.com/PvKa732/Portfolio), com todas as imagens e as informações dos aplicativos que eu fiz dês de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os projetos que eu fiz. 
 
-Eu faço aplicativos no Flet, quase sempre, estou construindo novos projetos para obter experiencias e registrar tudo no meu portifólio, eu faço os desings dos meus aplicativos usando Photoshop e Affinity, eu já tenho experiencia com esses Softwares.
+Eu faço aplicativos no Flet, e quase sempre, estou construindo novos projetos para obter experiencias e registrar tudo no meu portifólio, eu faço os designs dos meus aplicativos usando Photoshop e Affinity, e por isso, eu já tenho experiencia com essas Ferramentas.
 
-Estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para estudar mais na programação, estou sempre buscando novas ideias para aplicativos para desenvolver, e consequentemente aprendendo muito mais.
-
+Estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para estudar mais na programação, estou sempre buscando novas ideias para aplicativos e desenvolver, e também para aprender mais.
 # 💻 Stack Tecnológica
 
 ### 🔹 Backend
