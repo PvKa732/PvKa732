@@ -5,7 +5,9 @@
 ## 
 **`Desenvolvedor Full-Stack`**
 
-Olá, eu me chamo Carlos Eduardo, atualmente com 14 anos, sou um Desenvolvedor Full-Stack de Aplicativos, estou cursando Python, atualmente eu sou Júnior, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente o meu portifólio, com todas as imagens e as informações dos aplicativos que eu fiz des de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os meus projetos que eu fiz. 
+Olá, eu me chamo Carlos Eduardo, atualmente com 14 anos, estou cursando Python, atualmente eu sou Júnior, não terminei ainda o Ensino Fundamental II, aqui há informações na programação públicas minhas, principalmente o meu portifólio, com todas as imagens e as informações dos aplicativos que eu fiz des de 2025, por isso, depois de explorar o meu perfil, recomendo que tu veja todos os meus projetos que eu fiz. 
+
+Eu faço aplicativos no Flet, quase sempre, estou construindo novos projetos para obter experiencias e registrar tudo no meu poertifólio.
 
 Estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para estudar mais na programação, estou sempre buscando novas ideias para aplicativos para desenvolver, e consequentemente aprendendo muito mais.
 
