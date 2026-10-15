@@ -28,7 +28,7 @@ Estou quase sempre online, principalmente pelo Discord, tanto para networking ta
 
 # 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PvKa732&theme=ocean-gradient&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PvKa732&theme=ocean-gradient&hide_border=true&card_width=600)](https://git.io/streak-stats)
  <!-- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PvKa732\&theme=yeblu\&hide_border=true&layout=compact)
  <!--
 **PvKa732/PvKa732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
