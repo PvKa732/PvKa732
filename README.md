@@ -10,6 +10,22 @@ Eu faço aplicativos no Flet, quase sempre, estou construindo novos projetos par
 
 Estou quase sempre online, principalmente pelo Discord, tanto para networking tanto para estudar mais na programação, estou sempre buscando novas ideias para aplicativos para desenvolver, e consequentemente aprendendo muito mais.
 
+# 💻 Stack Tecnológica
+
+### 🔹 Backend
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square\&logo=python\&logoColor=ffdd54)
+![Flet](https://img.shields.io/badge/Flet-02569B?style=flat-square\&logo=python\&logoColor=white)
+
+### 🔹 Bancos de Dados
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square\&logo=sqlite\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔹 Ferramentas & Outros
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square\&logo=adobe%20photoshop\&logoColor=white)
+
 # 📊 Estatísticas do GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PvKa732&theme=ocean-gradient&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
