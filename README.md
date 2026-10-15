@@ -11,8 +11,8 @@ Estou quase sempre online, principalmente pelo Discord, tanto para networking ta
 
 # 📊 Estatísticas do GitHub
 
-![Estreak](https://github-readme-streak-stats.herokuapp.com/?user=Alisonsantos77\&theme=yeblu\&hide_border=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisonsantos77\&theme=yeblu\&hide_border=true&layout=compact)
+![Estreak](https://github-readme-streak-stats.herokuapp.com/?user=PvKa732\&theme=yeblu\&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PvKa732\&theme=yeblu\&hide_border=true&layout=compact)
 <!--
 **PvKa732/PvKa732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
